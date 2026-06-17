@@ -26,4 +26,4 @@ The dashboard exposes a `/api/health` endpoint that proxies data from [starvc.ir
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT — see [LICENSE](LICENSE.md) for details.
